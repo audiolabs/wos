@@ -1,0 +1,19 @@
+body {
+	font-family: sans-serif;
+}
+
+input, select {
+	padding: 5px;
+}
+
+td, th { text-align: left; vertical-align: top; padding: 3px; }
+tr { padding: 5px; }
+th { background-color: #f0f0f0; }
+
+div {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#visbox #visualization { height: 64px; position: relative; }
+#visbox #visualization div { background-color: #009374; display: inline-block; position: absolute; bottom: 0px; width: 2.5%; }
